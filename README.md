@@ -8,7 +8,7 @@ The purpose of this repository is to provide a valuable resource for anyone who 
 * Learn about the most popular DevOps tools and technologies
 * Practice answering common DevOps interview questions
 
-## Table of content
+## Table of contents
 
 1. [What is DevOps, and how does it differ from traditional IT practices?](#what-is-devops-and-how-does-it-differ-from-traditional-it-practices)
 2. [Explain the CI/CD pipeline.](#explain-the-cicd-pipeline)
